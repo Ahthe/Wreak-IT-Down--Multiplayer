@@ -18,8 +18,8 @@ const c = canvas.getContext("2d");
 const devicePixelRatio = window.devicePixelRatio || 1
 
 //seting the width and height to the full page
-canvas.width = innerWidth * devicePixelRatio;
-canvas.height = innerHeight * devicePixelRatio;
+canvas.width = innerWidth;
+canvas.height = innerHeight;
 
 let player 
 //array for projectiles
