@@ -18,7 +18,7 @@ Welcome to "Wreak It Down," an immersive canvas game where the action never stop
 - **Game Over UI** 🛑: Get immediate feedback when the battle is over with a clear UI.
 - **Restart Button** 🔁: Jump straight back into the action with a simple restart mechanism.
 - **Effortless Game Start** 🎬: Begin your adventure smoothly with an easy-to-use startup sequence.
-- **Multiplayer Mode** ⚔️: Fight against your in one on one battle from anywhere.
+- **Multiplayer Mode** ⚔️: Fight against your friends in one on one battle from anywhere.
 - ...and over 20+ features to discover!
 
 ## How To Play 🕹️
